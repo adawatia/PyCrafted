@@ -44,6 +44,16 @@ def main():
         if not input('>').lower.starswith("y"):
             break
     print("Thanks for playing!.")
+    
+def getSecretNum():
+    numbers = list(str(i) for i in range(10))
+    random.shuffle(numbers)
+    secretNum = ""
+    for i in range(NUM_DIGITS):
+        secretNum += str(numbers[i])
+    return secretNum
+
+
 
 
             
