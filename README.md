@@ -1,2 +1,2 @@
 # PyCrafted
-A collection python mini projects.
+A collection python mini-projects.
