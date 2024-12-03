@@ -1,2 +1,2 @@
 # PyCrafted
-A repository dedicated to pathway of mastering Python programming language.
+A collection python mini projects.
