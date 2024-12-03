@@ -29,4 +29,22 @@ def main():
             while len(guess) != NUM_DIGITS or guess.isdecimal():
                 print(f"Guess # {numGuesses}")
                 guess = input('>')
+
+            clues = getClues(guess, secretNum)
+            print(clues)
+            numGuesses+=1
+            if numGuesses > MAX_GUESSES:
+                break
+            if numGuesses > MAX_GUESSES:
+                print("You ran out of guesses.")
+                print(f"The answer was {secretNum}.")
+
+
+        print("Do you want to play again? (yes or no)")
+        if not input('>').lower.starswith("y"):
+            break
+    print("Thanks for playing!.")
+
+
+            
                 
