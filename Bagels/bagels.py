@@ -8,7 +8,7 @@ MAX_GUESSES = 10  # Maximum number of guesses allowed
 def main():
     # Print game instructions explaining the rules and clue system
     print(f"""Bagels, a deductive logic game.
-By Al Sweigart.L
+By Al Sweigart.
 
 I am thinking of a {NUM_DIGITS}-digit number with no repeated digits.
 Try to guess what it is. Here are some clues:
