@@ -3,9 +3,10 @@
 
 Here's a markdown table with project references for a comprehensive overview:
 
-| Project Name | Description                             | Reference/Link                                                                                      |
-|--------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Bagels       | A deductive logic number guessing game. | [The Big Book of Small Python Projects by Al Sweigart](https://inventwithpython.com/bigbookpython/) |
+| Project Name     | Description                                                                                                                                                               | Reference/Link                                                                                      |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Bagels           | A deductive logic number guessing game.                                                                                                                                   | [The Big Book of Small Python Projects by Al Sweigart](https://inventwithpython.com/bigbookpython/) |
+| Birthday Paradox | The Birthday Paradox, also called the Birthday Problem, is the surprisingly high probability that two people will have the same birthday even in a small group of people. | https://en.wikipedia.org/wiki/Birthday_problem.                                                     |
 
 <h2>🛡️ License:</h2>
 
