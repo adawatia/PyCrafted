@@ -1,0 +1,203 @@
+This is a demo file for Huffman Compresstion Tool.
+....
+Section: CTG General Exam B
+Question: What is the OM Part A, Volume 2 also called?
+Answer: Training Manual.
+Answer: Safety Manual.
+*Answer: SEP Manual.
+Question: Who is in command of the aircraft?
+Answer: The Cruise Relief Pilot.
+Answer: The Senior Pilot.
+*Answer: The Commander.
+Question: What does LRBL stand for?
+Answer: Last Response Before Landing.
+*Answer: Least Risk Bomb Location.
+Answer: Low Rest Before Landing.
+Question: What is a landing on water called?
+Answer: Water landing.
+Answer: Belly landing.
+*Answer: Ditching.
+Question: What does CLC stand for?
+*Answer: Crew Letter Code.
+Answer: Cabin Line Checker.
+Answer: Crew Line Checker.
+Question: When are Cabin Crew allowed to enter a bar or liquor store while in uniform?
+Answer: Anytime.
+*Answer: Never.
+Answer: Only on special occasions.
+Question: What is the policy regarding Cabin Crew use of mobile phones while on flight duty?
+Answer: Use is only permitted on ground.
+Answer: Use is permitted only after passengers disembarked?
+*Answer: Not permitted.
+Question: How are turbulence classified?
+Answer: Mild, Medium, Strong, Wild.
+*Answer: Light, Moderate, Severe, Extreme.
+Answer: Light, Medium, Strong, Very Strong.
+Question: How long is recurrent training valid for?
+Answer: 2 years.
+*Answer: 12 calendar months.
+Answer: 6 calendar months.
+Question: What is a Ferry Flight?
+Answer: A flight to bring an aeroplane without commercial load from one aerodrome to another.
+Answer: A flight carried out for the purpose of sales or advertising.
+*Answer: A flight to bring an aeroplane which is unfit for commercial operation from one aerodrome to another.
+Question: What is the personal review of evacuation duties prior to take-off and landing called?
+Answer: Evacuation Review.
+Answer: Emergency Review.
+*Answer: Silent Review.
+Question: What is the language to be used while on duty?
+Answer: Icelandic or English.
+Answer: Icelandic only.
+*Answer: English only.
+Question: Which form outlines the Cabin Crew Member´s areas of responsibility on board?
+Answer: The Emergency Equipment Checklist.
+*Answer: The Station and Security Checklist.
+Answer: The Station and Security Completion Form.
+Question: What is the Cabin Crew primary role on board the aeroplane?
+Answer: Safety and Service.
+Answer: Passenger´s service and comfort.
+*Answer: Safety and Security.
+Question: What does Shall means in the Operations manual?
+Answer: The application of the rule is recommended.
+Answer: The application of the rule is optional.
+*Answer: The application of the rule is mandatory.
+Question: What shall the SCCM announce just before the last door is closed?
+*Answer: “All ground personnel please leave the aircraft”.
+Answer: “Cabin Crew, closing door for departure”.
+Answer: “Cabin Crew, closing doors for departure and crosscheck”.
+Question: How is the locator light of the life vest demonstrated during the safety demonstration?
+*Answer: By showing the location of the activation locator light tab.
+Answer: By clearly showing the location of the locator light.
+Answer: There is no need to demonstrate the locator light as it is visible.
+Question: What callout shall the Flight Deck Crew make prior to each take-off and landing?
+Answer: “Brace, Brace”.
+Answer: “Cabin Crew Be Ready”.
+*Answer: “Cabin Crew Take Your Seats”.
+Question: When shall Cabin Crew brief Special Categories of Passengers?
+Answer: As soon as they get on board.
+*Answer: Before the Safety Demo.
+Answer: After the Safety Demo.
+Question: What does PED stand for?
+*Answer: Portable Electronic Device.
+Answer: Passenger Escorted Documentation.
+Answer: Passenger Electronic Documentation.
+Question: Who can ask for a De-briefing?
+Answer: The SCCM only.
+Answer: The Commander only.
+*Answer: Any Crew Member.
+Question: What is the Time of Useful Consciousness during a decompression at 40,000 feet?
+Answer: 45 seconds.
+Answer: 30 seconds.
+*Answer: 18 seconds.
+Question: What are the types of decompression?
+*Answer: Slow and Rapid.
+Answer: Moderate and Sudden.
+Answer: Slow and Explosive.
+Question: What are Cabin Crew immediate actions during a decompression?
+*Answer: Grab mask, Sit down, Hold on.
+Answer: Put on ´´Quick Oxygen Mask´´, Reduce engine power, Extend speed brakes, Turn and descend rapidly.
+Answer: Grab mask, Go down and Speed breaks on.
+Question: What are the Cabin Crew actions if oxygen mask deploys with signs of decompression and the aeroplane does not suspend climb, level-off or start descent?
+Answer: Remain on oxygen.
+Answer: Remain on oxygen for 1 minute then proceed to the flight deck to ensure pilots are wearing their oxygen mask.
+*Answer: Contact the Flight Deck Crew via the interphone and confirm that they are wearing their oxygen mask.
+Question: What announcement shall the Flight Deck Crew make as soon as the aeroplane has leveled off at a safe altitude post decompression?
+Answer: “Cabin Crew initiate post decompression drill, Cabin Crew initiate post decompression drill”.
+*Answer: “Cabin Crew descent completed, Cabin Crew descent completed”.
+Answer: “Senior to flight deck, Senior to flight deck”.
+Question: What type of fire is a Class A fire?
+*Answer: Combustible Solid.
+Answer: Flammable Gas.
+Answer: Electrical.
+Question: During a fire situation, what is the role of the Cabin Crew responsible to provide additional firefighting equipment and support the firefighting effort?
+*Answer: Coordinator.
+Answer: Communicator.
+Answer: Fire fighter.
+Question: When dealing with a lithium battery fire without a PED Fire Containment Bag, what are the Cabin Crew actions after the device has cooled down for a period of 10 to 15 minutes?
+Answer: Place cooled device back inside the overhead locker and monitor for reignition.
+Answer: Submerge cooled device in ice or dry ice and secure.
+*Answer: Submerge cooled device in water and secure.
+Question: What callout does the Firefighter use to alert the rest of the Cabin Crew?
+Answer: “Help with fire at…location, Help with fire at…location”.
+Answer: “Bring BCF to …(location), Bring BCF to...(location)”.
+*Answer: “Bring Halon to…(Location), Bring Halon to…(location)”.
+Question: What callout shall the Flight Deck Crew use in the event of an abnormal situation occurring on the ground or during critical phases of the flight?
+*Answer: “Cabin Crew Stand By, Cabin Crew Stand By”.
+Answer: “Senior to flight deck, Senior to flight deck”.
+Answer: “Attention Crew on Station, Attention Crew on Station”.
+Question: What callout shall the Flight Deck Crew use in case of a Pilot Incapacitation?
+Answer: “Cabin Crew Stand By, Cabin Crew Stand By”.
+*Answer: “Senior to flight deck, Senior to flight deck”.
+Answer: “Attention Crew on Station, Attention Crew on Station”.
+Question: What type of oxygen may Cabin Crew use on an incapacitated pilot?
+Answer: Protective Breathing Equipment.
+Answer: Drop down oxygen.
+*Answer: Quick donning oxygen masks.
+Question: What is the main callout in the event of an emergency arising/existing during flight?
+Answer: “Cabin Crew Stand By, Cabin Crew Stand By”.
+*Answer: “Senior to Flight Deck, Senior to Flight Deck”.
+Answer: “Emergency, Emergency, Get Down, Get Down”.
+Question: What are the two types of Emergency Landings Cabin Crew may face?
+Answer: Prepared and Unexpected.
+Answer: Planned and Unplanned.
+*Answer: Expected and Unexpected.
+Question: What are the Cabin Crew Shouted Commands after hearing the callout from the Flight Deck Crew for an Unexpected Emergency?
+Answer: “Brace, Brace”.
+Answer: “Heads Down, Heads Down”.
+*Answer: “Bend Down, Bend Down”.
+Question: What is the callout from the Flight Deck Crew at 1500ft/2minutes to landing?
+Answer: “Bend down, Bend down”.
+*Answer: “Cabin Crew take your seats, Cabin Crew take your seats”.
+Answer: “Cabin Crew prepare for landing, Cabin Crew prepare for landing”.
+Question: What is the shouted command to the passengers when the callout from the Flight Deck Crew “Brace Brace, Brace Brace” is made?
+*Answer: “Brace, Brace”.
+Answer: “Heads down Stay down, Heads down Stay down”.
+Answer: “Hold tight, Hold tight”.
+Question: What callout shall the Flight Deck Crew make in case of unexpected Emergency?
+Answer: “Cabin Crew prepare for impact, Cabin Crew prepare for impact”.
+Answer: “Bend down, Bend down”.
+*Answer: “Emergency Emergency, Get down Get down”.
+Question: What shall Cabin Crew shout to passengers after hearing the callout “Evacuate, Evacuate” on land?
+Answer: “Emergency Evacuate, Emergency Evacuate”.
+*Answer: “Open seat belt, Leave everything, Come this way”.
+Answer: “Emergency Come this way, Emergency Come this way”.
+Question: What is the shouted command to passengers while the Slides/Slide Rafts are inflating?
+Answer: “Wait slide inflating”.
+Answer: “Move back Slide inflating”.
+*Answer: “Stand back Hold people back”.
+Question: Where shall Cabin Crew direct the passengers after an evacuation?
+*Answer: Upwind, at least 200 meters away for the aeroplane.
+Answer: Downwind, at least 200 meters away from the aeroplane.
+Answer: Downwind, at least 100 meters away from the aeroplane.
+Question: Which of the following equipment can be used as signaling device during rescue?
+*Answer: Mirror.
+Answer: Hand Pump.
+Answer: Bailing bucket.
+Question: What are the three phases of the search and rescue procedure?
+*Answer: Uncertainty, Alert and Distress Phase.
+Answer: Uncertainty, Alert and Apprehension Phase.
+Answer: Uncommunicated, Alert and Apprehension Phase.
+Question: What are the Priorities of Survival?
+Answer: Food, Company, the will to survive, Good survival skills.
+*Answer: Protection, Location, Water, Food.
+Answer: Protection, Water, Food, the will to survive.
+Question: What does the acronym H.E.L.P. stand for?
+*Answer: Heat Escape Lessening Posture.
+Answer: Help Escape Lost Passenger.
+Answer: Help Emergency Lost Passenger.
+Question: What is the procedure to deal with a Lithium Battery Fire using a PED Fire Containment Bag?
+*Answer: Open the Ped Fire Containment Bag, don gloves, place the PED inside bag, ensure the flaps are closed and the bag is sealed, lay the bag face down on the floor.
+Answer: Open the PED Fire Containment Bag, remove the BCF, place the PED inside the bag and discharge BCF inside.
+Answer: Break the seal to open the PED Fire Containment Bag, place the PED inside the bag, and close the bag.
+Question: What signals do aeroplanes use to confirm that the ground to air signals have been understood during search and rescue?
+Answer: During the hours of daylight: by extending the landing gears, during the hours of darkness: by turning the cabin light on and off twice.
+Answer: During the hours of daylight: by turning the aeroplane around 360 degrees, during the hours of darkness: by turning the cockpit lights on and off twice.
+*Answer: During the hours of daylight: by rocking the aeroplane wings, during the hours of darkness: by flashing the landing lights on and off twice or, if not so equipped, by switching on and off its navigation lights.
+Question: What frequencies do the Emergency Locator Transmitters use?
+Answer: 3G, GSM and HSPA.
+*Answer: Civil, military and satellite.
+Answer: LTE, Bluetooth and Wifi.
+Question: What are the Basic Principles of Survival?
+Answer: The knowledge of survival and following the Standard Operating Procedures.
+*Answer: The will to survive and the knowledge of the correct use of survivals aids.
+Answer: Food supplies, water and insect repellent.
