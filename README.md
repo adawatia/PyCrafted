@@ -6,7 +6,7 @@
 
 Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection of Python mini-projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
 
-## 📂 Project Categories
+## 🐂 Project Categories
 
 ### 🎮 Games & Simulations
 
@@ -26,8 +26,9 @@ Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection 
 | **Project Name**      | **Description**                                                                                                                                                                    | **Key Features/Skills**                                                                                      |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **[ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron)**        | Generates catchy acronyms from input phrases, helping users create memorable abbreviations effortlessly.                                                                            | - String manipulation<br>- User input parsing<br>- Algorithmic phrase processing                           |
+| **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/Multi-Clipboard)** | A multi-clipboard program that stores and retrieves predefined text snippets using a keyword-based system. | - Clipboard automation<br>- Python scripting<br>- Command-line interface (CLI) |
 
-### 🗜️ Data Compression & Encoding
+### 🖜️ Data Compression & Encoding
 
 | **Project Name**      | **Description**                                                                                                                                                                    | **Key Features/Skills**                                                                                      |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
