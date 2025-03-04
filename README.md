@@ -1,3 +1,6 @@
+
+---
+
 <p align="center">
   <img src="https://socialify.git.ci/adawatia/pycrafted/image?description=1&amp;descriptionEditable=A%20collection%20of%20mini-projects.&amp;font=Rokkitt&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Frefs%2Fheads%2Fmain%2FVisuals%2Flogo.svg&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image">
 </p>
@@ -27,6 +30,8 @@ Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection 
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **[ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron)**        | Generates catchy acronyms from input phrases, helping users create memorable abbreviations effortlessly.                                                                            | - String manipulation<br>- User input parsing<br>- Algorithmic phrase processing                           |
 | **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/Multi-Clipboard)** | A multi-clipboard program that stores and retrieves predefined text snippets using a keyword-based system. | - Clipboard automation<br>- Python scripting<br>- Command-line interface (CLI) |
+| **[Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin)** | A fun and interactive program that translates English messages into Pig Latin, a playful language game. | - String manipulation<br>- User input handling<br>- Looping & conditionals<br>- Text processing |
+| **[Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder)** | Adds Wikipedia-style bullet points to the start of each line of text copied to the clipboard. | - Clipboard interaction<br>- String manipulation<br>- Automation with `pyperclip` |
 
 ### 🖜️ Data Compression & Encoding
 
@@ -38,3 +43,4 @@ Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection 
 
 This project is licensed under the MIT License.
 
+---
