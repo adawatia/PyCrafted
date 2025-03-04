@@ -23,7 +23,7 @@ Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection 
 
 ### 🔠 Text & String Processing
 - **[ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron)**  
-- **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/Multi-Clipboard)**  
+- **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/MultiClipboard)**  
 - **[Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin)**  
 - **[Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder)**  
 
@@ -53,7 +53,7 @@ Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection 
 | **Project Name**      | **Description**                                                                                                                                                                    | **Key Features/Skills**                                                                                      |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | **[ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron)**        | Generates catchy acronyms from input phrases, helping users create memorable abbreviations effortlessly.                                                                            | - String manipulation<br>- User input parsing<br>- Algorithmic phrase processing                           |
-| **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/Multi-Clipboard)** | A multi-clipboard program that stores and retrieves predefined text snippets using a keyword-based system. | - Clipboard automation<br>- Python scripting<br>- Command-line interface (CLI) |
+| **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/MultiClipboard)** | A multi-clipboard program that stores and retrieves predefined text snippets using a keyword-based system. | - Clipboard automation<br>- Python scripting<br>- Command-line interface (CLI) |
 | **[Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin)** | A fun and interactive program that translates English messages into Pig Latin, a playful language game. | - String manipulation<br>- User input handling<br>- Looping & conditionals<br>- Text processing |
 | **[Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder)** | Adds Wikipedia-style bullet points to the start of each line of text copied to the clipboard. | - Clipboard interaction<br>- String manipulation<br>- Automation with `pyperclip` |
 
