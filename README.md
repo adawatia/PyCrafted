@@ -9,7 +9,6 @@
 
 Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection of Python mini-projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
 
-Here’s a concise **Index** for the README:
 
 ---
 
@@ -33,7 +32,6 @@ Here’s a concise **Index** for the README:
 
 ---
 
-This index provides quick navigation to each project category and its associated projects. Let me know if you need further adjustments! 🚀
 
 ## 🐂 Project Categories
 
