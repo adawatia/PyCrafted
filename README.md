@@ -9,6 +9,32 @@
 
 Welcome to **[PyCrafted](https://github.com/adawatia/pycrafted)**, a collection of Python mini-projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
 
+Here’s a concise **Index** for the README:
+
+---
+
+## 📑 Index
+
+### 🎮 Games & Simulations
+- **[Bagels](https://github.com/adawatia/pycrafted/tree/main/Bagels)**  
+- **[PaperCuts](https://github.com/adawatia/pycrafted/tree/main/PaperCuts)**  
+
+### 📊 Probability & Statistics
+- **[Birthday Paradox](https://github.com/adawatia/pycrafted/tree/main/BirthdayParadox)**  
+
+### 🔠 Text & String Processing
+- **[ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron)**  
+- **[Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/Multi-Clipboard)**  
+- **[Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin)**  
+- **[Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder)**  
+
+### 🖜️ Data Compression & Encoding
+- **[Hufftastic](https://github.com/adawatia/pycrafted/tree/main/Hufftastic)**  
+
+---
+
+This index provides quick navigation to each project category and its associated projects. Let me know if you need further adjustments! 🚀
+
 ## 🐂 Project Categories
 
 ### 🎮 Games & Simulations
