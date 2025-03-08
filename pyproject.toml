@@ -10,3 +10,6 @@ dependencies = [
     "pyperclip>=1.9.0",
     "streamlit>=1.42.2",
 ]
+
+[dependency-groups]
+dev = []
