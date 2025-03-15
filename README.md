@@ -1,104 +1,144 @@
+<p align="center">
+  <img src="https://socialify.git.ci/adawatia/pycrafted/image?description=1&amp;descriptionEditable=A%20collection%20of%20mini-projects.&amp;font=Rokkitt&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Frefs%2Fheads%2Fmain%2FVisuals%2Flogo.svg&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image">
+</p>
+
+# 🚀 PyCrafted
+
+A curated collection of Python mini-projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
+
+[![GitHub Stars](https://img.shields.io/github/stars/adawatia/pycrafted?style=social)](https://github.com/adawatia/pycrafted/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/adawatia/pycrafted?style=social)](https://github.com/adawatia/pycrafted/network/members)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📑 Project Categories
+
+### 🎮 Games & Simulations
+
+| **Project** | **Description** | **Skills** |
+|-------------|-----------------|------------|
+| [Bagels](https://github.com/adawatia/pycrafted/tree/main/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
+| [PaperCuts](https://github.com/adawatia/pycrafted/tree/main/PaperCuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
+
+### 📊 Probability & Statistics
+
+| **Project** | **Description** | **Skills** |
+|-------------|-----------------|------------|
+| [Birthday Paradox](https://github.com/adawatia/pycrafted/tree/main/BirthdayParadox) | Demonstrates the surprising probability that in a group of 23 people, two share the same birthday | Probability theory, Statistical analysis, Data visualization |
+
+### 🔠 Text & String Processing
+
+| **Project** | **Description** | **Skills** |
+|-------------|-----------------|------------|
+| [ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron) | Generates catchy acronyms from input phrases | String manipulation, Algorithmic phrase processing |
+| [Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/MultiClipboard) | Stores and retrieves multiple text snippets using keywords | Clipboard automation, Command-line interface |
+| [Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin) | Translates English messages into Pig Latin | String manipulation, Text processing |
+| [Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder) | Adds Wikipedia-style bullet points to clipboard text | Clipboard interaction, Automation |
+
+### 🖜️ Data Compression & Encoding
+
+| **Project** | **Description** | **Skills** |
+|-------------|-----------------|------------|
+| [Hufftastic](https://github.com/adawatia/pycrafted/tree/main/Hufftastic) | Interactive Huffman coding implementation with visual interface | Data compression, GUI development with tkinter, Tree data structures |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.6 or higher
+- Git (for cloning the repository)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/adawatia/pycrafted.git
+   cd pycrafted
+   ```
+
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Running a Project
+
+Navigate to any project directory and run the main Python file:
+
+```bash
+cd ProjectName
+python main.py
+```
+
+For example:
+
+```bash
+cd Bagels
+python bagels.py
+```
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from the community! Here's how you can contribute:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
+
+2. **Clone Your Fork**:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/pycrafted.git
+   cd pycrafted
+   ```
+
+3. **Create a Branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**: Add or modify code as needed.
+
+5. **Test Your Changes**: Ensure your code works properly.
+
+6. **Commit Your Changes**:
+   ```bash
+   git add .
+   git commit -m "Add: Brief description of your changes"
+   ```
+
+7. **Push to GitHub**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+8. **Create a Pull Request**: Go to your fork on GitHub and click "New Pull Request".
+
+### Contribution Guidelines
+
+- Follow the existing code style and structure
+- Add comprehensive comments to your code
+- Update documentation if necessary
+- Include tests for new features
+- Make sure all tests pass before submitting
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who have helped build and improve PyCrafted
+- Special thanks to the Python community for inspiration and resources
+
+---
 
 <p align="center">
-  <img src="https://socialify.git.ci/adawatia/pycrafted/image?description=1&amp;descriptionEditable=A%20collection%20of%20mini-projects.&amp;font=Rokkitt&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Frefs%2Fheads%2Fmain%2FVisuals%2Flogo.svg&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="PyCrafted Logo">
-</p>🚀 PyCrafted – A Collection of Python Mini-Projects
-
-PyCrafted is an open-source repository featuring a diverse set of Python mini-projects aimed at enhancing problem-solving, logical thinking, and hands-on coding skills. Whether you're a beginner learning Python or an experienced developer looking for fun challenges, this collection offers something for everyone.
-
-Join us in building, learning, and contributing to practical Python projects across different domains, including games, simulations, text processing, and data compression.
-
-
----
-
-✨ Why PyCrafted?
-
-✅ Hands-on Learning – Solve real-world problems through practical projects.
-✅ Structured & Scalable – Well-organized, categorized projects for easy navigation.
-✅ Open for Contributions – Expand your skills by contributing new projects or improving existing ones.
-✅ Beginner & Advanced Friendly – Projects range from simple scripts to advanced implementations.
-
-
----
-
-📂 Project Categories
-
-🎮 Games & Simulations
-
-📊 Probability & Statistics
-
-🔠 Text & String Processing
-
-🖜 Data Compression & Encoding
-
-
----
-
-💡 How to Get Started
-
-1. Clone the repository
-
-git clone https://github.com/adawatia/pycrafted.git
-cd pycrafted
-
-
-2. Navigate to a project folder
-
-cd PigLatin
-python pig_latin.py
-
-
-3. Modify & experiment – Enhance projects with new features, optimize performance, or improve code readability.
-
-
-
-
----
-
-🤝 Contributing
-
-We welcome contributions of all types—whether it's adding a new project, refining an existing one, or improving documentation.
-
-Steps to Contribute:
-
-1. Fork the repository
-
-
-2. Create a new branch
-
-git checkout -b feature-branch
-
-
-3. Make changes & commit
-
-git commit -m "Added a new feature to XYZ project"
-
-
-4. Push changes & open a pull request
-
-git push origin feature-branch
-
-
-5. Submit your PR for review! 🎉
-
-
-
-🔹 Need help? Check out our Contribution Guide.
-
-
----
-
-📜 License
-
-This project is licensed under the MIT License – you’re free to use, modify, and distribute it as per the license terms.
-
-
----
-
-🌟 Join the Community
-
-🚀 Star this repository if you find it useful!
-💬 Follow & connect on GitHub for more projects.
-🛠 Submit issues, feedback, or feature requests to help improve PyCrafted!
-
-
----
+  Made with ❤️ by <a href="https://github.com/adawatia">adawatia</a>
+</p>
