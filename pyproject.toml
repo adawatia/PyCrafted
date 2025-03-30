@@ -9,6 +9,7 @@ dependencies = [
     "pyfiglet>=1.0.2",
     "pyperclip>=1.9.0",
     "streamlit>=1.42.2",
+    "yfinance>=0.2.55",
 ]
 
 [dependency-groups]
