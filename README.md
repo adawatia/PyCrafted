@@ -21,11 +21,20 @@ A curated collection of Python mini-projects designed to enhance problem-solving
 | [Bagels](https://github.com/adawatia/pycrafted/tree/main/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
 | [PaperCuts](https://github.com/adawatia/pycrafted/tree/main/PaperCuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
 
+
 ### 📊 Probability & Statistics
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
 | [Birthday Paradox](https://github.com/adawatia/pycrafted/tree/main/BirthdayParadox) | Demonstrates the surprising probability that in a group of 23 people, two share the same birthday | Probability theory, Statistical analysis, Data visualization |
+
+
+###📈 Finance & Data Visualization
+
+
+| **Project** | **Description** | **Skills** |
+|-------------|-----------------|------------|
+| [Stock Price Dashboard](https://github.com/adawatia/pycrafted/tree/main/StockPriceDashboard) | A dashboard that visualizes stock price and volume trends using Yahoo Finance data | Data Science, Streamlit, Yfinance |
 
 ### 🔠 Text & String Processing
 
