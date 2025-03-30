@@ -59,10 +59,7 @@ A curated collection of Python mini-projects designed to enhance problem-solving
    cd pycrafted
    ```
 
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install ``uv``
 
 ### Running a Project
 
@@ -70,14 +67,14 @@ Navigate to any project directory and run the main Python file:
 
 ```bash
 cd ProjectName
-python main.py
+uv run main.py
 ```
 
 For example:
 
 ```bash
 cd Bagels
-python bagels.py
+uv run bagels.py
 ```
 
 ---
