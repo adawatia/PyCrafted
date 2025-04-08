@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://socialify.git.ci/adawatia/PyCrafted/image?custom_description=A+curated+compilation+of+Python-based+projects.&description=1&font=Rokkitt&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Fcd0dcce913614b8c33770c465ffcda04017f9e77%2FVisuals%2Flogo.svg&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Auto" alt="PyCrafted" width="640" height="320" />
+<img src="https://socialify.git.ci/adawatia/PyCrafted/image?custom_description=A+curated+compilation+of+Python-based+projects.&description=1&font=Rokkitt&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Fcd0dcce913614b8c33770c465ffcda04017f9e77%2FVisuals%2Flogo.svg&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Light" alt="PyCrafted" width="640" height="320" />
 </p>
 
 # 🚀 PyCrafted
