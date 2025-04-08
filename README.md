@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://socialify.git.ci/adawatia/pycrafted/image?description=1&amp;descriptionEditable=A%20collection%20of%20mini-projects.&amp;font=Rokkitt&amp;logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Frefs%2Fheads%2Fmain%2FVisuals%2Flogo.svg&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image">
+ <img src="https://socialify.git.ci/adawatia/PyCrafted/image?custom_description=A+curated+compilation+of+Python-based+projects.&description=1&font=Rokkitt&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fadawatia%2FPyCrafted%2Fcd0dcce913614b8c33770c465ffcda04017f9e77%2FVisuals%2Flogo.svg&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Auto" alt="PyCrafted" width="640" height="320" />
 </p>
 
 # 🚀 PyCrafted
 
-A curated collection of Python mini-projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
+A curated collection of Python projects designed to enhance problem-solving skills, logic, and programming expertise. Each project covers different domains, from games and simulations to algorithms and data compression.
 
 [![GitHub Stars](https://img.shields.io/github/stars/adawatia/pycrafted?style=social)](https://github.com/adawatia/pycrafted/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/adawatia/pycrafted?style=social)](https://github.com/adawatia/pycrafted/network/members)
