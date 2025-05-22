@@ -76,6 +76,7 @@ Navigate to any project directory and run the main Python file:
 
 ```bash
 cd ProjectName
+uv pip install -r requirements.txt
 uv run main.py
 ```
 
@@ -83,6 +84,7 @@ For example:
 
 ```bash
 cd Bagels
+uv pip install -r requirements.txt
 uv run bagels.py
 ```
 
