@@ -29,7 +29,7 @@ A curated collection of Python projects designed to enhance problem-solving skil
 | [Birthday Paradox](https://github.com/adawatia/pycrafted/tree/main/BirthdayParadox) | Demonstrates the surprising probability that in a group of 23 people, two share the same birthday | Probability theory, Statistical analysis, Data visualization |
 
 
-### 📈 Finance & Data Visualization
+### 📈 Data Visualization
 
 
 | **Project** | **Description** | **Skills** |
