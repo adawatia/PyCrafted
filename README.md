@@ -18,8 +18,8 @@ A curated collection of Python projects designed to enhance problem-solving skil
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [Bagels](Game&Simulations/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
-| [PaperCuts](Game&Simulations/Papercuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
+| [Bagels](Games&Simulations/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
+| [PaperCuts](Games&Simulations/Papercuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
 
 
 ### 📊 Probability & Statistics
