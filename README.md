@@ -18,15 +18,15 @@ A curated collection of Python projects designed to enhance problem-solving skil
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [Bagels](https://github.com/adawatia/pycrafted/tree/main/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
-| [PaperCuts](https://github.com/adawatia/pycrafted/tree/main/PaperCuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
+| [Bagels](Game&Simulations/Bagels) | A deductive logic game where players guess a secret 3-digit number based on clues | Deductive reasoning, User input handling, Looping & conditionals |
+| [PaperCuts](Game&Simulations/Papercuts) | A colorful Rock, Paper, Scissors game with an engaging terminal interface | Game design, Randomization, Colored terminal output |
 
 
 ### 📊 Probability & Statistics
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [Birthday Paradox](https://github.com/adawatia/pycrafted/tree/main/BirthdayParadox) | Demonstrates the surprising probability that in a group of 23 people, two share the same birthday | Probability theory, Statistical analysis, Data visualization |
+| [Birthday Paradox](Probability&Statistics/BirthdayParadox) | Demonstrates the surprising probability that in a group of 23 people, two share the same birthday | Probability theory, Statistical analysis, Data visualization |
 
 
 ### 📈 Data Visualization
@@ -34,22 +34,22 @@ A curated collection of Python projects designed to enhance problem-solving skil
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [Stock Price Dashboard](https://github.com/adawatia/pycrafted/tree/main/StockPriceDashboard) | A dashboard that visualizes stock price and volume trends using Yahoo Finance data | Data Science, Streamlit, Yfinance |
+| [Stock Price Dashboard](DataVisualization/StockPriceDashboard) | A dashboard that visualizes stock price and volume trends using Yahoo Finance data | Data Science, Streamlit, Yfinance |
 
 ### 🔠 Text & String Processing
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [ThinkAcron](https://github.com/adawatia/pycrafted/tree/main/ThinkAcron) | Generates catchy acronyms from input phrases | String manipulation, Algorithmic phrase processing |
-| [Multi-Clipboard](https://github.com/adawatia/pycrafted/tree/main/MultiClipboard) | Stores and retrieves multiple text snippets using keywords | Clipboard automation, Command-line interface |
-| [Pig Latin Translator](https://github.com/adawatia/pycrafted/tree/main/PigLatin) | Translates English messages into Pig Latin | String manipulation, Text processing |
-| [Wiki Bullet Adder](https://github.com/adawatia/pycrafted/tree/main/WikiBulletAdder) | Adds Wikipedia-style bullet points to clipboard text | Clipboard interaction, Automation |
+| [ThinkAcron](Text&StringProcessing/ThinkAcron) | Generates catchy acronyms from input phrases | String manipulation, Algorithmic phrase processing |
+| [Multi-Clipboard](Text&StringProcessing/MultiClipboard) | Stores and retrieves multiple text snippets using keywords | Clipboard automation, Command-line interface |
+| [Pig Latin Translator](Text&StringProcessing/PigLatin) | Translates English messages into Pig Latin | String manipulation, Text processing |
+| [Wiki Bullet Adder](Text&StringProcessing/WikiBulletAdder) | Adds Wikipedia-style bullet points to clipboard text | Clipboard interaction, Automation |
 
 ### 🖜️ Data Compression & Encoding
 
 | **Project** | **Description** | **Skills** |
 |-------------|-----------------|------------|
-| [Hufftastic](https://github.com/adawatia/pycrafted/tree/main/Hufftastic) | Interactive Huffman coding implementation with visual interface | Data compression, GUI development with tkinter, Tree data structures |
+| [Hufftastic](DataCompression&Encoding/Hufftastic) | Interactive Huffman coding implementation with visual interface | Data compression, GUI development with tkinter, Tree data structures |
 
 ---
 
